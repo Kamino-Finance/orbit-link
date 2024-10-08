@@ -1,4 +1,4 @@
-#![doc = include_str!("../Readme.md")]
+#![doc = include_str!("../README.md")]
 
 use std::iter;
 use std::sync::atomic::AtomicU64;
